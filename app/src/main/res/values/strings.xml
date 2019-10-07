@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Currency_Coverter</string>
+
+
+    <string name="Choose">one</string>
+    <string name="computationError">Two</string>
+<string-array name="shortcuts">
+<item>SELECT_any_Currency</item>
+<item>USD</item>
+<item>EUR</item>
+<item>GBP</item>
+<item>AED</item>
+<item>JPY</item>
+
+</string-array>
+
+
+</resources>
